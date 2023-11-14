@@ -8,6 +8,9 @@
 # Instalamos POSTGRESQL
 > sudo apt-get install postgresql -y
 
+# Instalamos wkhtmltopdf
+> sudo apt-get -y install wkhtmltopdf
+
 # Clonamos el repositorio
 > wget -O odoo_17.0.latest_all.deb "https://nightly.odoo.com/17.0/nightly/deb/odoo_17.0.latest_all.deb"
 
